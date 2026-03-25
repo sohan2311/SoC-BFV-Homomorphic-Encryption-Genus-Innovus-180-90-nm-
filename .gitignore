@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+._*
+
+# Cadence temp files
+.cadence/
+*.tif.gz
+.rs_*.tstamp
+pvsUI_ipvs.log
