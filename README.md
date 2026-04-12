@@ -2,6 +2,7 @@
 
 > **Hardware accelerator for BFV (Brakerski/Fan-Vercauteren) Homomorphic Encryption** targeting pixel-level image encryption. Synthesized with Cadence Genus and placed-and-routed with Cadence Innovus on TSMC 180nm and 90nm standard-cell libraries.
 
+Complete Project Report - (https://drive.google.com/file/d/1e0yehe1lq3VVizvLsI_HeSV7QQc2lCHz/view?usp=sharing)
 ---
 
 ## 📋 Table of Contents
