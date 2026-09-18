@@ -1,6 +1,6 @@
 # 🔐 BFV Homomorphic Encryption — ASIC Implementation (180nm & 90nm)
 
-> **Hardware accelerator for BFV (Brakerski/Fan-Vercauteren) Homomorphic Encryption** targeting pixel-level image encryption. Synthesized with Cadence Genus and placed-and-routed with Cadence Innovus on TSMC 180nm and 90nm standard-cell libraries.
+> **Hardware accelerator for BFV (Brakerski/Fan-Vercauteren) Homomorphic Encryption** targeting pixel-level image encryption. Synthesized with Cadence Genus and placed-and-routed with Cadence Innovus on GPDK 180nm and 90nm standard-cell libraries.
 
 Complete Project Report - (https://drive.google.com/file/d/1e0yehe1lq3VVizvLsI_HeSV7QQc2lCHz/view?usp=sharing)
 ---
@@ -198,8 +198,8 @@ RTL simulation was performed using **Cadence NCLaunch** to verify functional cor
 | **Cadence Genus** | 20.11-s111_1 | RTL Synthesis |
 | **Cadence Innovus** | 20.x | Place & Route, GDS export |
 | **Cadence NCLaunch** | — | RTL Simulation |
-| **TSMC 180nm** | `t018s6mm` | Standard cell library |
-| **TSMC 90nm** | — | Standard cell library |
+| **GPDK 180nm** | `t018s6mm` | Standard cell library |
+| **GPDK 90nm** | — | Standard cell library |
 
 ---
 
